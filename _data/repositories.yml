@@ -1,14 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - asingularity
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - asingularity/narrated-learning
+  - asingularity/nearest-neighbor-visual-learning
+  - asingularity/obsidia-signal-mvp
+  - asingularity/obsidia-vehicle-imu
+  - asingularity/obsidia-auto-transport-optimizer-demo

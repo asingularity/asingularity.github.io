@@ -395,7 +395,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-narrated-learning",
+          section: "News",},{id: "projects-business-agent",
+          title: 'Business Agent',
+          description: "AI agent for autonomous business decisions via MCTS and Bayesian inference",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/business-agent/";
+            },},{id: "projects-narrated-learning",
           title: 'Narrated Learning',
           description: "Self-supervised learning from sequential data (2016–2023)",
           section: "Projects",handler: () => {

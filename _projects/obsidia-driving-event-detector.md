@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Obsidia Driving Event Detector
+title: Driving Event Detector
 description: IMU-based driving event detection with matched filtering
 img: assets/img/projects/obsidia-driving-event-cover.png
 importance: 3
 category: obsidia.ai
 ---
 
-A system for detecting driving events (hard acceleration, braking, swerving) from a vehicle-mounted IMU sensor, developed at Obsidia.ai. A Raspberry Pi reads accelerometer and gyroscope data at 833 Hz from an ISM330DHCX sensor, and either records it for offline analysis or runs real-time detection with alerts displayed on a phone via a web dashboard.
+A system for detecting driving events (hard acceleration, braking, swerving) from a vehicle-mounted IMU sensor. A Raspberry Pi reads accelerometer and gyroscope data at 833 Hz from an ISM330DHCX sensor, and either records it for offline analysis or runs real-time detection with alerts displayed on a phone via a web dashboard.
 
 Two detection methods are implemented: matched filtering (designed in MATLAB, executed in Cython) and a simpler threshold-with-hysteresis approach in Python. Ground truth events are annotated during recording via keyboard input.
 

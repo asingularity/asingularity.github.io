@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Obsidia WiFi Link Quality
+title: WiFi Link Quality
 description: Bidirectional wireless link quality measurement with mobile robot
 img: assets/img/projects/obsidia-wifi-supervision-demo-robot.png
 importance: 3
 category: obsidia.ai
 ---
 
-A wireless link quality measurement system built around an iRobot Create 2 controlled from a laptop over WiFi, developed at Obsidia.ai. As the robot is driven around an environment, both the robot (Raspberry Pi) and the controller (laptop) simultaneously record bidirectional network metrics. The collected data is exported to `.mat` format for analysis in MATLAB.
+A wireless link quality measurement system built around an iRobot Create 2 controlled from a laptop over WiFi. As the robot is driven around an environment, both the robot (Raspberry Pi) and the controller (laptop) simultaneously record bidirectional network metrics. The collected data is exported to `.mat` format for analysis in MATLAB.
 
 Developed December 2022 to January 2023.
 

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Obsidia Anomaly Detector
+title: Anomaly Detector
 description: Real-time anomaly detection for laser cutter operations
 img: assets/img/projects/obsidia-anomaly-cover.png
 importance: 4
 category: obsidia.ai
 ---
 
-A real-time anomaly detection system for industrial laser cutter operations, developed at Obsidia.ai. The system monitors sensor data during laser cutting and flags deviations from normal operating patterns.
+A real-time anomaly detection system for industrial laser cutter operations. The system monitors sensor data during laser cutting and flags deviations from normal operating patterns.
 
 <div class="row">
     <div class="col-sm-5 mt-3 mt-md-0">

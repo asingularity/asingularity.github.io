@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Obsidia Auto Transport Optimizer
+title: Auto Transport Optimizer
 description: Truck load profitability optimization web app
 img: assets/img/projects/obsidia-ato-im.png
 importance: 3
 category: obsidia.ai
 ---
 
-A full-stack web demo application for optimizing vehicle transport truck loads, developed at Obsidia.ai. Given an inventory of vehicles with weights, lengths, and destinations, the system compares a standard greedy loading strategy against a QUBO-optimized approach that maximizes profit per truckload.
+A full-stack web demo application for optimizing vehicle transport truck loads. Given an inventory of vehicles with weights, lengths, and destinations, the system compares a standard greedy loading strategy against a QUBO-optimized approach that maximizes profit per truckload.
 
 The demo scenario: ~100 BMW and MINI vehicles at a distribution facility in Oxnard, CA need delivery to Bay Area dealers. Each truck can carry 7–9 cars subject to weight and length constraints. The optimizer selects which vehicles to load together to maximize total profit accounting for per-vehicle revenue, driver costs, and fuel.
 
@@ -41,4 +41,4 @@ The greedy approach fills trucks by destination proximity; the QUBO approach joi
     Demo of the auto transport optimizer web application.
 </div>
 
-[GitHub repository](https://github.com/asingularity/obsidia-auto-transport-optimizer-demo)
+[GitHub repository](https://github.com/obsidia-ai/obsidia-auto-transport-optimizer-demo)

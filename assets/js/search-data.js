@@ -405,23 +405,23 @@ ninja.data = [{
           description: "Self-supervised learning from sequential data (2016–2023)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/narrated-learning/";
-            },},{id: "projects-obsidia-anomaly-detector",
-          title: 'Obsidia Anomaly Detector',
+            },},{id: "projects-anomaly-detector",
+          title: 'Anomaly Detector',
           description: "Real-time anomaly detection for laser cutter operations",
           section: "Projects",handler: () => {
               window.location.href = "/projects/obsidia-anomaly-detector/";
-            },},{id: "projects-obsidia-auto-transport-optimizer",
-          title: 'Obsidia Auto Transport Optimizer',
+            },},{id: "projects-auto-transport-optimizer",
+          title: 'Auto Transport Optimizer',
           description: "Truck load profitability optimization web app",
           section: "Projects",handler: () => {
               window.location.href = "/projects/obsidia-auto-transport-optimizer/";
-            },},{id: "projects-obsidia-driving-event-detector",
-          title: 'Obsidia Driving Event Detector',
+            },},{id: "projects-driving-event-detector",
+          title: 'Driving Event Detector',
           description: "IMU-based driving event detection with matched filtering",
           section: "Projects",handler: () => {
               window.location.href = "/projects/obsidia-driving-event-detector/";
-            },},{id: "projects-obsidia-wifi-link-quality",
-          title: 'Obsidia WiFi Link Quality',
+            },},{id: "projects-wifi-link-quality",
+          title: 'WiFi Link Quality',
           description: "Bidirectional wireless link quality measurement with mobile robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/obsidia-wifi-link-quality/";

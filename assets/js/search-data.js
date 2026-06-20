@@ -425,6 +425,11 @@ ninja.data = [{
           description: "Bidirectional wireless link quality measurement with mobile robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/obsidia-wifi-link-quality/";
+            },},{id: "projects-spiking-network-trading",
+          title: 'Spiking-Network Trading',
+          description: "Predicting and trading financial time series with spiking neural networks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spiking-network-trading/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",

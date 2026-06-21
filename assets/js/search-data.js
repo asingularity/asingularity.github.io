@@ -400,6 +400,11 @@ ninja.data = [{
           description: "AI agent for autonomous business decisions via MCTS and Bayesian inference",
           section: "Projects",handler: () => {
               window.location.href = "/projects/business-agent/";
+            },},{id: "projects-kinect-dog-tracking",
+          title: 'Kinect Dog Tracking',
+          description: "Real-time depth-camera dog tracking for interactive canine training",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/kinect-dog-tracking/";
             },},{id: "projects-narrated-learning",
           title: 'Narrated Learning',
           description: "Self-supervised learning from sequential data (2016–2023)",

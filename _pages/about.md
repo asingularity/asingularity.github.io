@@ -24,7 +24,7 @@ I am a software developer and entrepreneur with 16 years experience at early sta
 
 I earned my M.S. in ECE from Georgia Tech (2009) and B.S. in EE from UCLA (2007). I've co-founded two startups: [Percept Biosciences](https://www.percept.bio/) (agentic systems for drug repurposing, $275K NSF SBIR Phase I) and Obsidia.ai (IoT analytics, vehicle anomaly detection, and logistics optimization). I am a named author on [29 patents](https://patents.google.com/?inventor=csaba+petre) and have authored [18 peer-reviewed publications](https://www.researchgate.net/profile/Csaba-Petre-2) (12 journal, 6 conference). 
 
-Currently I work as AI/ML/CV & Software Lead at [Padma AgRobotics](https://www.padmaagrobotics.com/), where I helped secure a $175K USDA SBIR grant for agricultural computer vision and robotics.
+Currently I work as Head of Technology at [Padma AgRobotics](https://www.padmaagrobotics.com/), where I helped secure a $175K USDA SBIR grant for agricultural computer vision and robotics.
 
 My core technical areas include computer vision (OpenCV, LIDAR / open3D), full-stack development (Python, C++), cloud architecture and deployment (Azure, GCP, Docker, Github Actions), deep learning (PyTorch, YOLO) and robotics middleware.
 

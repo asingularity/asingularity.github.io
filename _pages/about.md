@@ -28,4 +28,4 @@ Currently I work as Head of Technology at [Padma AgRobotics](https://www.padmaag
 
 My core technical areas include computer vision (OpenCV, LIDAR / open3D), full-stack development (Python, C++), cloud architecture and deployment (Azure, GCP, Docker, Github Actions), deep learning (PyTorch, YOLO) and robotics middleware.
 
-On the [projects](/projects/) page, you'll find summaries of my self-directed projects: some born of personal interest, and some developed as customer demos for Obsidia.ai. 
+On the [projects](/projects/) page, you'll find summaries of my self-directed projects: some born of personal interest, and some developed as customer and tech demos. 
